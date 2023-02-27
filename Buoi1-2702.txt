@@ -1,0 +1,17 @@
+* Java có:
+- nhờ oracle
+- Do java mã nguồn mở nên có nhiều thư viện, nhiều lập trình viên
+- chạy đa nền tảng trên nhiều hệ điều hành nhờ JRE
+- tính bảo mật tốt. src code -> bytecode chỉ có một chiều ko ngược lại nên ko hack đc
+- performance, dọn rác giúp ứng dụng nhẹ nhàng (gabbage collection)
+- ng2 hướng đối tượng
+
+*	   compiler(biên dịch)    runtime (thông dịch) chạy liên tục
+- src code    -> bytecode(.class)       -> binary 
+- biên dịch dịch sau một lần hết, gom lại và chạy
+- JVM (hỗ trợ runtime trình thông dịch từ .class -> binary) + libry: để chạy runtime = JRE môi trường chạy ưd java
+- JDK cho lập trình viên tạo ứng dụng java = tool hỗ trợ ltv(compiler, debugger) + JRE
+
+*
+nếu chỉ dùng jdk thì cần phải viết đúng syntax
+IDE hỗ trợ syntax kiểm tra cú pháp
