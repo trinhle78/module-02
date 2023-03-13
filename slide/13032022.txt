@@ -1,0 +1,11 @@
+Collection là một tập các đối tượng(element chỉ chứa value)
+Map là tập các phần tử (entry) Entry có 2 phần:key + value. Key không cho trùng
+Set không cho trùng value
+Collection - List + ArrList + Vector + Linked
+- Set +Hashset + LinkedHashSet
+- Queue
+Map - Hash Map, mã hóa Key -> key cipher
+- Tree Map
+- Linked Hash Map
+Hash thuật toán trong mã hóa Plenttext qua mã hóa ra Cipher text. Hash chỉ có chiều đi ko thể giải mã đc
+MD5, SHA, BCrypt
